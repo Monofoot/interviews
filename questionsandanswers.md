@@ -5,6 +5,6 @@ Uses a few resources:
 
 ## A section
 
-** A question? **
+**A question?**
 
 An answer.
