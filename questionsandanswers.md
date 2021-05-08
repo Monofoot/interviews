@@ -14,7 +14,7 @@ An answer.
 
 ## Python
 
-**What is the difference between a dictionary and a list?**
+**What is the difference between dictionaries, lists and tuples - provide examples**
 
 **Explain list comprehension.**
 
