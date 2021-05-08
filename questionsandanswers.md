@@ -13,3 +13,9 @@ An answer.
 ## Data Structures and Algorithms
 
 ## Python
+
+**What is the difference between a dictionary and a list?**
+
+**Explain list comprehension.**
+
+**Write and explain a lambda function.**
