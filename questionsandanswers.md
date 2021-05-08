@@ -21,3 +21,5 @@ An answer.
 **Write and explain a lambda function.**
 
 **Explain how you stick to PEP8**
+
+Using Pylint is a good start.
