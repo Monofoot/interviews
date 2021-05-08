@@ -19,3 +19,5 @@ An answer.
 **Explain list comprehension.**
 
 **Write and explain a lambda function.**
+
+**Explain how you stick to PEP8**
