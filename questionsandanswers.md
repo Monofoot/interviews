@@ -88,6 +88,6 @@ What is essentially going on in this code example is that you declare the lambda
 
 Using Pylint is a good start.
 
-##Testing
+## Testing
 
 **Questions about testing**
