@@ -103,4 +103,6 @@ Using Pylint is a good start.
 
 ## Testing
 
-**Questions about testing**
+**What is unit testing?**
+
+Usually performed by the developers. They are functions with an expected, concrete result which doesn't change given certain parameters. If they change, it's a fail.
