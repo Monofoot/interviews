@@ -73,6 +73,17 @@ newlist = [expression for item in iterable if condition == True]
 
 **Write and explain a lambda function.**
 
+A lambda function is what's known as an anonymous function. It doesn't need to be declared and can take any number of arguments, but can only have one expression. 
+
+```
+x = lambda a, b : a * b
+print(x(5, 6))
+
+= 30
+```
+
+What is essentially going on in this code example is that you declare the lambda function x to take two parameters, a and b. The : notes the actual expression, which is to simply multiply them together.
+
 **Explain how you stick to PEP8**
 
 Using Pylint is a good start.
