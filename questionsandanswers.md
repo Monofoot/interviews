@@ -87,3 +87,7 @@ What is essentially going on in this code example is that you declare the lambda
 **Explain how you stick to PEP8**
 
 Using Pylint is a good start.
+
+##Testing
+
+**Questions about testing**
