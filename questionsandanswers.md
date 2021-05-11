@@ -50,6 +50,27 @@ set = {"a", "set"}
 
 **Explain list comprehension.**
 
+A shorter way of creating lists based on another list. Using the fruits example from w3schools, to create a new list of fruits with only the letter "a" in would require 
+a for loop.
+
+```
+for x in fruits, if "a" in x, append to new list
+```
+
+List comprehension allows that to be done in one line.
+
+```
+fruits = ["apple", "banana", "cherry"]
+
+newlist = [x for x in fruits if "a" in x]
+```
+
+Syntax:
+
+```
+newlist = [expression for item in iterable if condition == True]
+```
+
 **Write and explain a lambda function.**
 
 **Explain how you stick to PEP8**
