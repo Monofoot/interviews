@@ -4,11 +4,24 @@ Uses a few resources:
 * http://theprofessionalspoint.blogspot.com/2019/01/100-basic-machine-learning-interview.html
 * ...Leetcode
 
-## A section
+## Machine Learning
 
-**A question?**
+**Describe a confusion matrix**
 
-An answer.
+**Explain accuracy, precision, recall and F1-measure**
+
+Accuracy is how many predictions were correct. Accuracy = TP+TN/TP+FP+FN+TN
+
+The sum of true positives and true negatives divided by the total number of samples. This is only accurate if the model is balanced. It will give inaccurate results if there is a class imbalance.
+
+Precision is the total number of positive predictions. Precision = TP/TP+FP
+
+When it predicts yes the person likes dogs, how often is it actually correct?
+Precison = How much of the selected amount was selected correctly?
+
+Recall = How much of the actual amount that we were trying to select was seleceted (correctly)?
+
+F1-measure is the harmonic mean of precision and recall.
 
 ## Data Structures and Algorithms - Arrays
 
