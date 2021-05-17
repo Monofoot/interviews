@@ -23,6 +23,10 @@ Recall = How much of the actual amount that we were trying to select was selecet
 
 F1-measure is the harmonic mean of precision and recall.
 
+## Data Structures and Algorithms
+
+**What is the relationship between best/worst/expected case and big 0/theta/omega?**
+
 ## Data Structures and Algorithms - Arrays
 
 ## Python
